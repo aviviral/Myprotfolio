@@ -11,20 +11,20 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'BeautyBebo Clone',
+        projectDesc: 'This project aims to build a clone of Beauty Products website',
+        tags: ['HTML', 'CSS', 'Javascript'],
+        code: 'https://github.com/Gyanmaurya/Beauty-Bebo-Project-',
+        demo: 'https://bebobeautyclone.netlify.app/',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Pepperfry Clone',
+        projectDesc: 'This project aims to build a clone of Furniture Products website',
+        tags: ['HTML', 'CSS', 'Javascript','Node.JS'],
+        code: 'https://github.com/NishutSuman/Pepperfry_Clone',
+        demo: 'https://pepperfry-clone.netlify.app/',
         image: two
     },
 //     {
